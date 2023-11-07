@@ -5,6 +5,7 @@ import "./prose.css"
 import "./markdown.css"
 import 'uno.css'
 import 'floating-vue/dist/style.css'
+import "./icon.css"
 import App from './App.vue'
 import autoRoutes from 'pages-generated'
 import { ViteSSG } from 'vite-ssg'
